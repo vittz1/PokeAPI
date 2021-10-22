@@ -44,8 +44,8 @@ HTML, CSS, Javascript, React, Redux.
 # Screenshot
 
 - Home
-<p align = "center"> <img height = "200" src = "./src/images/screen1.png" /> </p>
+<p align = "center"> <img height = "200" src = "https://github.com/vittz1/PokeAPI/blob/master/src/images/screen1.PNG" /> </p>
 
 - Detail
-<p align = "center"> <img height = "200" src = "./src/images/screen2.png" /> </p>
+<p align = "center"> <img height = "200" src = "https://github.com/vittz1/PokeAPI/blob/master/src/images/screen2.PNG" /> </p>
 
